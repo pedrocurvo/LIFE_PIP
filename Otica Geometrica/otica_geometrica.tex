@@ -13,7 +13,10 @@
 
 \addbibresource{bibliography.bib}
 \begin{document}
-\pagestyle{plain}
+\pagestyle{fancy}
+\fancyhf{} % Clear previous settings
+\rhead{LIFE}
+\lhead{Ótica Geométrica}
 
 %TC:ignore
 % #############################################################################
@@ -76,7 +79,7 @@ em que $n_i$ e $n_r$ são respectivamente os índices de refracção do meio de 
 \end{itemize}
 \end{enumerate}
 %%%%%%%%%%%%
-\begin{figure}
+\begin{figure}[H]
 \begin{center}
 	\includegraphics[width=0.4\textwidth]{./otica_images/1-snell}
 	\caption{Raio reflectido e refractado na fronteira entre dois meios.}
