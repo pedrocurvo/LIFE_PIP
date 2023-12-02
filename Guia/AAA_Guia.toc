@@ -1,0 +1,93 @@
+\selectlanguage *[variant=portuguese,]{portuguese}
+\contentsline {chapter}{\numberline {1} \huge {Experiência de Thomson}}{4}{}%
+\contentsline {section}{\numberline {1.1}\sf Objectivo do trabalho}{4}{}%
+\contentsline {section}{\numberline {1.2}\sf Conceitos fundamentais}{4}{}%
+\contentsline {subsection}{\numberline {1.2.1}\sf Campo electrostático}{4}{}%
+\contentsline {subsection}{\numberline {1.2.2}\sf Potencial eléctrico}{5}{}%
+\contentsline {subsubsection}{{\sf Energia electrostática}}{7}{}%
+\contentsline {subsection}{\numberline {1.2.3}\sf Condutores eléctricos e dieléctricos. Condensador plano}{7}{}%
+\contentsline {subsection}{\numberline {1.2.4}\sf Efeitos da corrente eléctrica estacionária criada por uma espira}{8}{}%
+\contentsline {subsection}{\numberline {1.2.5}\sf Força de Lorentz }{9}{}%
+\contentsline {section}{\numberline {1.3}\sf Figuras dos aparelhos da montagem experimental}{12}{}%
+\contentsline {section}{\numberline {1.4}\sf Procedimento Experimental}{13}{}%
+\contentsline {subsection}{\numberline {1.4.1}\sf Material}{13}{}%
+\contentsline {subsection}{\numberline {1.4.2}\sf Determinação de $q/m$ por deflexão magnética}{14}{}%
+\contentsline {subsubsection}{\sf Trajectórias de partículas carregadas sujeitas a um campo magnético constante}{14}{}%
+\contentsline {subsubsection}{\sf Modo de proceder}{14}{}%
+\contentsline {subsection}{\numberline {1.4.3}\sf Determinação de $q/m$ por deflexão magnética e eléctrica quase compensada }{15}{}%
+\contentsline {subsubsection}{\sf Situação de equilíbrio entre as interacções eléctrica e magnética}{15}{}%
+\contentsline {subsubsection}{\sf Montagem a efectuar}{15}{}%
+\contentsline {subsubsection}{\sf Modo de proceder}{16}{}%
+\contentsline {chapter}{\numberline {2}\huge {Experiência de Millikan}}{17}{}%
+\contentsline {section}{\numberline {2.1}\sf Objectivo do trabalho}{17}{}%
+\contentsline {section}{\numberline {2.2}\sf Conceitos fundamentais}{17}{}%
+\contentsline {subsection}{\numberline {2.2.1}\sf Corpo esférico em queda livre num fluido}{17}{}%
+\contentsline {subsection}{\numberline {2.2.2}\sf Equilíbrio dum corpo carregado, imerso num fluido, através de um campo eléctrico vertical}{19}{}%
+\contentsline {subsection}{\numberline {2.2.3}\sf Correções}{20}{}%
+\contentsline {subsubsection}{\sf Temperatura ambiente}{20}{}%
+\contentsline {subsubsection}{\sf Dimensão das gotas}{20}{}%
+\contentsline {section}{\numberline {2.3}\sf Figuras dos aparelhos da montagem experimental}{21}{}%
+\contentsline {section}{\numberline {2.4}\sf Procedimento experimental}{22}{}%
+\contentsline {subsection}{\numberline {2.4.1}\sf Material}{22}{}%
+\contentsline {subsection}{\numberline {2.4.2}\sf Trabalho preparatório}{22}{}%
+\contentsline {subsection}{\numberline {2.4.3}\sf Montagem experimental}{22}{}%
+\contentsline {subsection}{\numberline {2.4.4}\sf Determinação da tensão de equilíbrio}{22}{}%
+\contentsline {subsection}{\numberline {2.4.5}\sf Determinação da velocidade limite e da carga}{23}{}%
+\contentsline {subsection}{\numberline {2.4.6}\sf Análise, conclusões e comentários finais}{23}{}%
+\contentsline {chapter}{\numberline {3}\huge {Velocidade da luz}}{24}{}%
+\contentsline {section}{\numberline {3.1}\sf Objectivo do trabalho}{24}{}%
+\contentsline {section}{\numberline {3.2}\sf Conceitos fundamentais}{24}{}%
+\contentsline {subsection}{\numberline {3.2.1}\sf Base do método}{25}{}%
+\contentsline {subsection}{\numberline {3.2.2}\sf Velocidade da luz no ar}{26}{}%
+\contentsline {subsection}{\numberline {3.2.3}\sf Velocidade da luz em meios sólidos e líquidos}{26}{}%
+\contentsline {section}{\numberline {3.3}\sf Procedimento experimental}{28}{}%
+\contentsline {subsection}{\numberline {3.3.1}\sf Material}{28}{}%
+\contentsline {subsection}{\numberline {3.3.2}\sf Trabalho preparatório}{28}{}%
+\contentsline {subsection}{\numberline {3.3.3}\sf Regulação da montagem}{28}{}%
+\contentsline {subsection}{\numberline {3.3.4}\sf Medição da velocidade de propagação da luz no ar}{29}{}%
+\contentsline {subsection}{\numberline {3.3.5}\sf Medição da velocidade de propagação da luz no vidro acrílico}{30}{}%
+\contentsline {subsection}{\numberline {3.3.6}\sf Medição da velocidade de propagação da luz na água}{31}{}%
+\contentsline {subsection}{\numberline {3.3.7}\sf Análise, conclusões e comentários finais}{31}{}%
+\contentsline {chapter}{\numberline {4}\huge {Óptica Geométrica}}{32}{}%
+\contentsline {section}{\numberline {4.1}\sf Objectivos do trabalho}{32}{}%
+\contentsline {section}{\numberline {4.2}\sf Conceitos fundamentais}{32}{}%
+\contentsline {subsection}{\numberline {4.2.1}\sf Traçado de raios}{32}{}%
+\contentsline {subsection}{\numberline {4.2.2}\sf Reflexão, refracção e polarização}{33}{}%
+\contentsline {section}{\numberline {4.3}\sf Construções geométricas em lentes delgadas}{34}{}%
+\contentsline {subsection}{\numberline {4.3.1}\sf Aproximações}{34}{}%
+\contentsline {subsection}{\numberline {4.3.2}\sf Convenções}{34}{}%
+\contentsline {subsection}{\numberline {4.3.3}\sf Objecto e imagem - focos conjugados e ampliação transversal}{36}{}%
+\contentsline {subsubsection}{\sf Lente convergente ($f>0$) -- Imagem real}{37}{}%
+\contentsline {subsubsection}{\sf Lente convergente ($f>0$) -- Imagem virtual}{37}{}%
+\contentsline {subsubsection}{\sf Lente divergente ($f<0$)}{37}{}%
+\contentsline {subsection}{\numberline {4.3.4}\sf Objectos virtuais}{38}{}%
+\contentsline {subsubsection}{\sf Lente convergente $f>0$}{38}{}%
+\contentsline {subsubsection}{\sf Lente divergente $f<0$ -- Imagem virtual}{39}{}%
+\contentsline {subsubsection}{\sf Lente divergente $f>0$ - Imagem real}{39}{}%
+\contentsline {section}{\numberline {4.4}\sf Associação de lentes delgadas}{40}{}%
+\contentsline {subsection}{\numberline {4.4.1}\sf Lente convergente - lente convergente}{41}{}%
+\contentsline {subsection}{\numberline {4.4.2}\sf Lente convergente - lente divergente}{42}{}%
+\contentsline {section}{\numberline {4.5}\sf Instrumentos ópticos}{44}{}%
+\contentsline {subsection}{\numberline {4.5.1}\sf O olho humano}{44}{}%
+\contentsline {subsection}{\numberline {4.5.2}\sf Lupa}{45}{}%
+\contentsline {subsubsection}{ \sf Ampliação angular}{46}{}%
+\contentsline {subsection}{\numberline {4.5.3}\sf Microscópio composto}{47}{}%
+\contentsline {section}{\numberline {4.6}\sf Procedimento experimental}{49}{}%
+\contentsline {subsection}{\numberline {4.6.1}\sf Determinação do índice de refracção dum vidro acrílico }{49}{}%
+\contentsline {subsection}{\numberline {4.6.2}\sf Polarização da luz. Ângulo de Brewster}{50}{}%
+\contentsline {subsection}{\numberline {4.6.3}\sf Distância focal de uma lente convergente ( $f \approx $ 75 mm) }{50}{}%
+\contentsline {subsection}{\numberline {4.6.4}\sf Distância focal de uma lente divergente ( $f \approx $ --150 mm) }{50}{}%
+\contentsline {subsection}{\numberline {4.6.5}\sf Microscópio composto}{51}{}%
+\contentsline {chapter}{\numberline {5}\huge {Espectroscopia e efeito fotoeléctrico}}{52}{}%
+\contentsline {section}{\numberline {5.1}\sf Objectivos do trabalho}{52}{}%
+\contentsline {section}{\numberline {5.2}\sf Conceitos fundamentais}{52}{}%
+\contentsline {subsection}{\numberline {5.2.1}\sf Desvio da luz por um prisma}{52}{}%
+\contentsline {subsection}{\numberline {5.2.2}\sf Rede de difracção}{53}{}%
+\contentsline {section}{\numberline {5.3}\sf Goniómetro de Babinet}{54}{}%
+\contentsline {subsection}{\numberline {5.3.1}\sf Leitura de valores no goniómetro}{56}{}%
+\contentsline {section}{\numberline {5.4}\sf Efeito fotoeléctrico}{58}{}%
+\contentsline {subsection}{\numberline {5.4.1}\sf Figuras dos aparelhos da montagem experimental}{60}{}%
+\contentsline {section}{\numberline {5.5}\sf Procedimento experimental}{61}{}%
+\contentsline {subsection}{\numberline {5.5.1}\sf Trabalho preparatório}{61}{}%
+\contentsline {subsection}{\numberline {5.5.2}\sf Goniómetro}{61}{}%
+\contentsline {subsection}{\numberline {5.5.3}\sf Efeito fotoeléctrico}{63}{}%

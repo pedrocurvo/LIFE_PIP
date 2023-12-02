@@ -1,0 +1,1663 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.3)  24 FEB 2023 15:53
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**AAA_Guia.tex
+(./AAA_Guia.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count190
+\l__color_backend_stack_int=\count191
+\g__color_backend_stack_int=\count192
+\g__graphics_track_int=\count193
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count194
+\g__pdf_backend_annotation_int=\count195
+\g__pdf_backend_link_int=\count196
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count197
+\l__lipsum_a_int=\count198
+\l__lipsum_b_int=\count199
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforechapskip=\skip55
+\cftchapindent=\skip56
+\cftchapnumwidth=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
+\c@lofdepth=\count266
+\c@lotdepth=\count267
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pst-optic/pst-optic.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2021/08/23 v0.71 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count268
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count269
+\pstFP@xia=\count270
+\pstFP@xib=\count271
+\pstFP@xfa=\count272
+\pstFP@xfb=\count273
+\pstFP@rega=\count274
+\pstFP@regb=\count275
+\pstFP@regs=\count276
+\pstFP@times=\count277
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen139
+\pgfutil@tempdimb=\dimen140
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks21
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Loading pgffor.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen141
+\pgf@xa=\dimen142
+\pgf@xb=\dimen143
+\pgf@xc=\dimen144
+\pgf@y=\dimen145
+\pgf@ya=\dimen146
+\pgf@yb=\dimen147
+\pgf@yc=\dimen148
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\pgfutil@tempcnta=\count282
+\pgfutil@tempcntb=\count283
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count284
+\pgfmath@box=\box51
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+))
+\pgffor@iter=\dimen150
+\pgffor@skip=\dimen151
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+)
+\psLoopIndex=\count286
+
+`PSTricks' v3.13  <2022/01/09> (tvz,hv)
+\pst@dima=\dimen152
+\pst@dimb=\dimen153
+\pst@dimc=\dimen154
+\pst@dimd=\dimen155
+\pst@dimg=\dimen156
+\pst@dimh=\dimen157
+\pst@dimm=\dimen158
+\pst@dimn=\dimen159
+\pst@dimo=\dimen160
+\pst@dimp=\dimen161
+\pst@hbox=\box52
+\pst@ibox=\box53
+\pst@boxg=\box54
+\pst@cnta=\count287
+\pst@cntb=\count288
+\pst@cntc=\count289
+\pst@cntd=\count290
+\pst@cntg=\count291
+\pst@cnth=\count292
+\pst@cntm=\count293
+\pst@cntn=\count294
+\pst@cnto=\count295
+\pst@cntp=\count296
+\@zero=\count297
+\pst@toks=\toks27
+--- We are running latex or xelatex ---
+(/usr/local/texlive/2022/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen162
+\psxunit=\dimen163
+\psyunit=\dimen164
+\pst@C@@rType=\count298
+\pslinewidth=\dimen165
+\psk@startLW=\dimen166
+\psk@endLW=\dimen167
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen168
+\pshookwidth=\dimen169
+)
+\pst@customdefs=\toks28
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen170
+\pst@symbolStep=\dimen171
+\pst@symbolWidth=\dimen172
+\pst@symbolLinewidth=\dimen173
+\everypsbox=\toks29
+\psframesep=\dimen174
+\pslabelsep=\dimen175
+\sh@wgridXunit=\dimen176
+\sh@wgridYunit=\dimen177
+\pst@shift=\dimen178
+\ps@imagectr=\count299
+
+(/usr/local/texlive/2022/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for LaTeX+dvipdfmx
+)))
+File: pstricks.tex 2022/01/09 v3.13 `PSTricks' (tvz,hv)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+
+>>> Loading XeTeX special macros
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
+Package: pst-optic 2004/10/18 package wrapper for pst-optic.tex (hv)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-optic/pst-optic.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.43, 2022/01/31
+\psrow=\count300
+\pscol=\count301
+\psmatrixcnt=\count302
+\psrowsep=\skip83
+\pscolsep=\skip84
+\pst@args=\count303
+\num@pts=\count304
+\pst@argcnt=\count305
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-plot/pst-plot.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-tools/pst-tools.tex
+`PST-tools' v0.12, 2021/09/23 (hv)
+\randomi=\count306
+\ranval=\count307
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex
+`pst-arrow' v0.05, 2021/11/16 (dr,hv))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-3d/pst-3d.tex
+`PST-3d' v1.11, 2010/02/14 (tvz))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count308
+\multidocount=\count309
+\multido@stuff=\toks30
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-math/pst-math.tex
+`pst-math' v0.64 , (CJ,hv)) `pstricks-add' v3.92, 2021/12/25 (dr,hv)
+\psparallelogramsep=\dimen179
+\pst@cntC=\count310
+\pst@stepcount=\count311
+\chart@ColorIndex=\dimen180
+\chart@ColorStep=\dimen181
+\pst@chartHeight=\dimen182
+\pst@chartStackDepth=\dimen183
+\pst@chartStackWidth=\dimen184
+\chart@Toggle=\count312
+\psVectorCtr=\count313
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>)  v1.93, 2021/09/23 (tvz,hv)
+\pstRadUnit=\dimen185
+\pstRadUnitInv=\dimen186
+\pst@linecnt=\count314
+\RCD@file=\read2
+\psxlabelsep=\dimen187
+\psylabelsep=\dimen188
+\psk@subticksize=\dimen189
+\pst@xticksizeA=\dimen190
+\pst@xticksizeB=\dimen191
+\pst@xticksizeC=\dimen192
+\pst@yticksizeA=\dimen193
+\pst@yticksizeB=\dimen194
+\pst@yticksizeC=\dimen195
+\@digitcounter=\count315
+\psk@llx=\dimen196
+\psk@lly=\dimen197
+\psk@urx=\dimen198
+\psk@ury=\dimen199
+\pst@xunit=\dimen256
+\pst@yunit=\dimen257
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-3d/pst-3d.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pst-grad/pst-grad.tex
+`pst-grad' v1.06, 2006/11/27 (tvz,dg,hv))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>)
+`PST-Optic' v1.02, 2016/07/10 (Manuel Luque and Herbert Voss)
+Invalid UTF-8 byte or sequence at line 932 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 932 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 971 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1534 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1535 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1536 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1536 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1536 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1537 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1537 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1537 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1759 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1781 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1926 replaced by U+FFFD.
+)
+File: pst-optic.tex 2016/07/10 v1.02 `PST-optic' (ML,hv)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks31
+\footnotemargin=\dimen258
+\@outputbox@depth=\dimen259
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip85
+\aftertitleunit=\skip86
+\ttl@plus=\dimen260
+\ttl@minus=\dimen261
+\ttl@toksa=\toks32
+\titlewidth=\dimen262
+\titlewidthlast=\dimen263
+\titlewidthfirst=\dimen264
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2021/04/12 v1.53 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count316
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/makecmds/makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count317
+\l__fontspec_language_int=\count318
+\l__fontspec_strnum_int=\count319
+\l__fontspec_tmp_int=\count320
+\l__fontspec_tmpa_int=\count321
+\l__fontspec_tmpb_int=\count322
+\l__fontspec_tmpc_int=\count323
+\l__fontspec_em_int=\count324
+\l__fontspec_emdef_int=\count325
+\l__fontspec_strong_int=\count326
+\l__fontspec_strongdef_int=\count327
+\l__fontspec_tmpa_dim=\dimen265
+\l__fontspec_tmpb_dim=\dimen266
+\l__fontspec_tmpc_dim=\dimen267
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+LaTeX hooks Warning: Generic hook 'file/after/tracklang.sty' is deprecated.
+(hooks)              Use hook 'file/tracklang.sty/after' instead.
+
+
+LaTeX hooks Warning: Generic hook 'package/after/bidi' is deprecated.
+(hooks)              Use hook 'package/bidi/after' instead.
+
+
+LaTeX hooks Warning: Generic hook 'package/after/luabidi' is deprecated.
+(hooks)              Use hook 'package/luabidi/after' instead.
+
+\xpg@normalclass=\XeTeXcharclass1
+(/usr/local/texlive/2022/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+)
+Package polyglossia Info: Default language is latex.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/polyglossia/gloss-portuges.ldf
+File: gloss-portuges.ldf polyglossia: module for portuguese
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/polyglossia/gloss-portuguese.ldf
+File: gloss-portuguese.ldf polyglossia: module for portuguese
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {portuguese/script}  =>  {latin}
+>  {portuguese/lcscript}  =>  {latin}
+>  {portuguese/scripttag}  =>  {}
+>  {portuguese/language}  =>  {Portuguese}
+>  {portuguese/langtag}  =>  {PTG}
+>  {portuguese/bcp47}  =>  {pt-PT}
+>  {portuguese/hyphennames}  =>  {portuges,portuguese}
+>  {portuguese/direction}  =>  {LR}
+>  {portuguese/hyphenmins}  =>  {2,3}
+>  {portuguese/frenchspacing}  =>  {false}
+>  {portuguese/indentfirst}  =>  {false}
+>  {portuguese/fontsetup}  =>  {true}
+>  {portuguese/envname}  =>  {portuguese}
+>  {portuguese/babelname}  =>  {portuges}
+>  {portuguese/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {portuguese/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/polyglossia/gloss-portuguese.ldf
+File: gloss-portuguese.ldf polyglossia: module for portuguese
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {portuguese/script}  =>  {latin}
+>  {portuguese/lcscript}  =>  {latin}
+>  {portuguese/scripttag}  =>  {}
+>  {portuguese/language}  =>  {Portuguese}
+>  {portuguese/langtag}  =>  {PTG}
+>  {portuguese/bcp47}  =>  {pt-PT}
+>  {portuguese/hyphennames}  =>  {portuges,portuguese}
+>  {portuguese/direction}  =>  {LR}
+>  {portuguese/hyphenmins}  =>  {2,3}
+>  {portuguese/frenchspacing}  =>  {false}
+>  {portuguese/indentfirst}  =>  {false}
+>  {portuguese/fontsetup}  =>  {true}
+>  {portuguese/envname}  =>  {portuguese}
+>  {portuguese/babelname}  =>  {portuges}
+>  {portuguese/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {portuguese/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+)
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Default language is portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen268
+\Gin@req@width=\dimen269
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks33
+\labelindent=\skip87
+\enit@outerparindent=\dimen270
+\enit@toks=\toks34
+\enit@inbox=\box56
+\enit@count@id=\count328
+\enitdp@description=\count329
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ieeetran/IEEEtrantools.sty
+Package: IEEEtrantools 2015/08/26 V1.5 by Michael Shell
+
+-- See the "IEEEtrantools_doc.txt" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/tools/
+\@IEEEtrantmpdimenA=\dimen271
+\@IEEEtrantmpdimenB=\dimen272
+\@IEEEtrantmpdimenC=\dimen273
+\@IEEEtrantmpcountA=\count330
+\@IEEEtrantmpcountB=\count331
+\@IEEEtrantmpcountC=\count332
+\@IEEEtrantmptoksA=\toks35
+\IEEEnormaljot=\dimen274
+\IEEEquantizedlength=\dimen275
+\IEEEquantizedlengthdiff=\dimen276
+\IEEEquantizedtextheightdiff=\dimen277
+\IEEEilabelindentA=\dimen278
+\IEEEilabelindentB=\dimen279
+\IEEEilabelindent=\dimen280
+\IEEEelabelindent=\dimen281
+\IEEEdlabelindent=\dimen282
+\IEEElabelindent=\dimen283
+\IEEEiednormlabelsep=\dimen284
+\IEEEiedmathlabelsep=\dimen285
+\IEEEiedtopsep=\skip88
+\c@IEEEsubequation=\count333
+\@IEEEeqnnumcols=\count334
+\@IEEEeqncolcnt=\count335
+\@IEEEsubeqnnumrollback=\count336
+\IEEEPARstartletwidth=\dimen286
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen287
+\pgfutil@tempdimb=\dimen288
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen289
+\pgf@y=\dimen290
+\pgf@xa=\dimen291
+\pgf@ya=\dimen292
+\pgf@xb=\dimen293
+\pgf@yb=\dimen294
+\pgf@xc=\dimen295
+\pgf@yc=\dimen296
+\pgf@xd=\dimen297
+\pgf@yd=\dimen298
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count337
+\c@pgf@countb=\count338
+\c@pgf@countc=\count339
+\c@pgf@countd=\count340
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count341
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count342
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count343
+\pgfsyssoftpath@bigbuffer@items=\count344
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen299
+\pgf@picmaxx=\dimen300
+\pgf@picminy=\dimen301
+\pgf@picmaxy=\dimen302
+\pgf@pathminx=\dimen303
+\pgf@pathmaxx=\dimen304
+\pgf@pathminy=\dimen305
+\pgf@pathmaxy=\dimen306
+\pgf@xx=\dimen307
+\pgf@xy=\dimen308
+\pgf@yx=\dimen309
+\pgf@yy=\dimen310
+\pgf@zx=\dimen311
+\pgf@zy=\dimen312
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen313
+\pgf@path@lasty=\dimen314
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen315
+\pgf@shorten@start@additional=\dimen316
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count345
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen317
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen318
+\pgf@pt@y=\dimen319
+\pgf@pt@temp=\dimen320
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen321
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen322
+\pgf@sys@shading@range@num=\count346
+\pgf@shadingcount=\count347
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box61
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box62
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen323
+\pgf@nodesepend=\dimen324
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen325
+\pgffor@skip=\dimen326
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count348
+\pgfplotmarksize=\dimen327
+)
+\tikz@lastx=\dimen328
+\tikz@lasty=\dimen329
+\tikz@lastxsaved=\dimen330
+\tikz@lastysaved=\dimen331
+\tikz@lastmovetox=\dimen332
+\tikz@lastmovetoy=\dimen333
+\tikzleveldistance=\dimen334
+\tikzsiblingdistance=\dimen335
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count349
+\tikznumberofchildren=\count350
+\tikznumberofcurrentchild=\count351
+\tikz@fig@count=\count352
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count353
+\pgfmatrixcurrentcolumn=\count354
+\pgf@matrix@numberofcolumns=\count355
+)
+\tikz@expandcount=\count356
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen336
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen337
+\pgfdecoratedremainingdistance=\dimen338
+\pgfdecoratedinputsegmentcompleteddistance=\dimen339
+\pgfdecoratedinputsegmentremainingdistance=\dimen340
+\pgf@decorate@distancetomove=\dimen341
+\pgf@decorate@repeatstate=\count357
+\pgfdecorationsegmentamplitude=\dimen342
+\pgfdecorationsegmentlength=\dimen343
+)
+\tikz@lib@dec@box=\box67
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryintersections.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryinterse
+ctions.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
+\pgf@intersect@solutions=\count358
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen344
+\captionmargin=\dimen345
+\caption@leftmargin=\dimen346
+\caption@rightmargin=\dimen347
+\caption@width=\dimen348
+\caption@indent=\dimen349
+\caption@parindent=\dimen350
+\caption@hangindent=\dimen351
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count359
+\c@continuedfloat=\count360
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/sansmath/sansmath.sty
+Package: sansmath 2007/02/28  ver 1.1 Donald Arseneau
+\c@mv@sans=\count361
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/lmss/m/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfsl' in version `sans'
+(Font)                  OT1/lmss/m/sl --> OT1/lmss/m/sl on input line 104.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/lmss/m/n on input line 105.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sans'
+(Font)                  OML/cmm/m/it --> OML/cmm/m/it on input line 109.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sans'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `sans'
+(Font)                  OT1/lmss/bx/sl --> OT1/lmss/bx/n on input line 112.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip89
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks42
+\ex@=\dimen352
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen353
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count362
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count363
+\leftroot@=\count364
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count365
+\DOTSCASE@=\count366
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box68
+\strutbox@=\box69
+\big@size=\dimen354
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count367
+\c@MaxMatrixCols=\count368
+\dotsspace@=\muskip16
+\c@parentequation=\count369
+\dspbrk@lvl=\count370
+\tag@help=\toks43
+\row@=\count371
+\column@=\count372
+\maxfields@=\count373
+\andhelp@=\toks44
+\eqnshift@=\dimen355
+\alignsep@=\dimen356
+\tagshift@=\dimen357
+\tagwidth@=\dimen358
+\totwidth@=\dimen359
+\lineht@=\dimen360
+\@envbody=\toks45
+\multlinegap=\skip90
+\multlinetaggap=\skip91
+\mathdisplay@stack=\toks46
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count374
+\mult@box=\box70
+\multicol@leftmargin=\dimen361
+\c@unbalance=\count375
+\c@collectmore=\count376
+\doublecol@number=\count377
+\multicoltolerance=\count378
+\multicolpretolerance=\count379
+\full@width=\dimen362
+\page@free=\dimen363
+\premulticols=\dimen364
+\postmulticols=\dimen365
+\multicolsep=\skip92
+\multicolbaselineskip=\skip93
+\partial@page=\box71
+\last@line=\box72
+\maxbalancingoverflow=\dimen366
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\c@minrows=\count380
+\c@columnbadness=\count381
+\c@finalcolumnbadness=\count382
+\last@try=\dimen367
+\multicolovershoot=\dimen368
+\multicolundershoot=\dimen369
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count383
+)
+(./AAA_Guia.aux
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+LaTeX Info: Redefining \rmfamily on input line 2.
+LaTeX Info: Redefining \sffamily on input line 2.
+LaTeX Info: Redefining \ttfamily on input line 2.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+)
+\openout1 = `AAA_Guia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+06.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 106.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 106.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 106.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 106.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 106.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 106.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 106.
+LaTeX Font Info:    Redeclaring math accent \check on input line 106.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 106.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 106.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 106.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 106.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 106.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 106.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 106.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 106.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `sans' on input line 106.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
+(Font)                  OT1/lmss/m/n --> TU/lmr/m/n on input line 106.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 106.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 106.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 106.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+LaTeX Info: Redefining \rmfamily on input line 106.
+LaTeX Info: Redefining \sffamily on input line 106.
+LaTeX Info: Redefining \ttfamily on input line 106.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+File: ../../logo-ist.png Graphic file (type bmp)
+<../../logo-ist.png>
+File: cover.jpeg Graphic file (type bmp)
+<cover.jpeg>
+
+[1
+
+] (./AAA_Guia.toc
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2])
+\tf@toc=\write4
+\openout4 = `AAA_Guia.toc'.
+
+
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 142--143
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+(../../LIFE.txt) [3]
+Capítulo 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+[4
+
+]
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+File: ./fig1-thomson.pdf Graphic file (type pdf)
+<use ./fig1-thomson.pdf>
+(../../LIFE.txt) [5]
+File: ./fig2-thomson.pdf Graphic file (type pdf)
+<use ./fig2-thomson.pdf>
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 251--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--263
+
+ []
+
+(../../LIFE.txt) [7]
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 331.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 331.
+
+File: fig-fio.pdf Graphic file (type pdf)
+<use fig-fio.pdf>
+[8]
+File: fig-espira.pdf Graphic file (type pdf)
+<use fig-espira.pdf>
+ (../../LIFE.txt) [9]
+File: ./Lorentz1.png Graphic file (type bmp)
+<./Lorentz1.png>
+File: ./Lorentz2.png Graphic file (type bmp)
+<./Lorentz2.png>
+ [10] (../../LIFE.txt) [11]
+File: ./fig3-ThomsomEquip.jpg Graphic file (type bmp)
+<./fig3-ThomsomEquip.jpg>
+File: ./fig4-Thomson_Electron-Deflection-Tube-D.jpg Graphic file (type bmp)
+<./fig4-Thomson_Electron-Deflection-Tube-D.jpg>
+ [12]
+Overfull \hbox (3.63602pt too wide) in paragraph at lines 421--424
+[]\TU/lmr/m/n/12 Par de bobinas que envolvem a parte esférica do TRC na configu
+ração de Helmholtz
+ []
+
+File: fig5-TuboTL.pdf Graphic file (type pdf)
+<use fig5-TuboTL.pdf>
+(../../LIFE.txt) [13] [14]
+File: fig6-TuboTLE.pdf Graphic file (type pdf)
+<use fig6-TuboTLE.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(../../LIFE.txt) [15]
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 564--565
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
+
+ []
+
+[16]
+Capítulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--568
+
+ []
+
+[17
+
+]
+File: ./plote.pdf Graphic file (type pdf)
+<use ./plote.pdf>
+ [18]
+File: ./F_equil.pdf Graphic file (type pdf)
+<use ./F_equil.pdf>
+ (../../LIFE.txt) [19]
+File: ./U131001_01_Aparelho-de-Millikan.jpg Graphic file (type bmp)
+<./U131001_01_Aparelho-de-Millikan.jpg>
+ [20]
+File: ./U13105-230_01_Aparelho-operacional-de-Millikan.jpg Graphic file (type b
+mp)
+<./U13105-230_01_Aparelho-operacional-de-Millikan.jpg>
+ (../../LIFE.txt) [21]
+File: Esquema-Millikan.pdf Graphic file (type pdf)
+<use Esquema-Millikan.pdf>
+ [22]
+Underfull \hbox (badness 10000) in paragraph at lines 810--812
+
+ []
+
+(../../LIFE.txt) [23]
+Capítulo 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--831
+
+ []
+
+File: Fizeau.jpg Graphic file (type bmp)
+<Fizeau.jpg>
+[24
+
+]
+File: esquema.pdf Graphic file (type pdf)
+<use esquema.pdf>
+File: osci_fase.pdf Graphic file (type pdf)
+<use osci_fase.pdf>
+ (../../LIFE.txt) [25]
+File: esquema2.pdf Graphic file (type pdf)
+<use esquema2.pdf>
+ [26] (../../LIFE.txt) [27]
+File: Fig5.jpg Graphic file (type bmp)
+<Fig5.jpg>
+ [28]
+File: fig6.jpg Graphic file (type bmp)
+<fig6.jpg>
+File: fig7.jpg Graphic file (type bmp)
+<fig7.jpg>
+ (../../LIFE.txt)
+[29]
+File: fig8.jpg Graphic file (type bmp)
+<fig8.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1032
+
+ []
+
+(../../LIFE.txt) [31]
+Capítulo 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1047
+
+ []
+
+File: 1-snell.png Graphic file (type bmp)
+<1-snell.png>
+[32
+
+]
+File: 2-brewster.pdf Graphic file (type pdf)
+<use 2-brewster.pdf>
+File: 2-pol-luz.pdf Graphic file (type pdf)
+<use 2-pol-luz.pdf>
+ (../../LIFE.txt) [33]
+File: 2-definicoes.png Graphic file (type bmp)
+<2-definicoes.png>
+ [34]
+File: 3-convencoes.pdf Graphic file (type pdf)
+<use 3-convencoes.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(../../LIFE.txt) [35] [36]
+File: 5-DivVirt.pdf Graphic file (type pdf)
+<use 5-DivVirt.pdf>
+ (../../LIFE.txt) [37]
+File: 6-ConvVirt.pdf Graphic file (type pdf)
+<use 6-ConvVirt.pdf>
+File: 7-DivVirtVirt.pdf Graphic file (type pdf)
+<use 7-DivVirtVirt.pdf>
+ [38]
+File: 8-DivVirtReal.pdf Graphic file (type pdf)
+<use 8-DivVirtReal.pdf>
+ (../../LIFE.txt) [39]
+[40]
+File: 9-DuplaConvConv1.pdf Graphic file (type pdf)
+<use 9-DuplaConvConv1.pdf>
+File: 10-DuplaConvConv2.pdf Graphic file (type pdf)
+<use 10-DuplaConvConv2.pdf>
+ (../../LIFE.txt) [41]
+File: 11-DuplaConvDiv1.pdf Graphic file (type pdf)
+<use 11-DuplaConvDiv1.pdf>
+File: 12-DuplaConvDiv2.pdf Graphic file (type pdf)
+<use 12-DuplaConvDiv2.pdf>
+File: 13-DuplaConvDiv3.pdf Graphic file (type pdf)
+<use 13-DuplaConvDiv3.pdf>
+ [42] (../../LIFE.txt) [43]
+File: olho-1.pdf Graphic file (type pdf)
+<use olho-1.pdf>
+
+Missing character: There is no ̧ (U+0327) in font [lmroman12-italic]:mapping=te
+x-text;!
+File: olho-2.pdf Graphic file (type pdf)
+<use olho-2.pdf>
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[44
+
+]
+File: olho-3.pdf Graphic file (type pdf)
+<use olho-3.pdf>
+
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+(../../LIFE.txt) [45]
+File: olho-4.pdf Graphic file (type pdf)
+<use olho-4.pdf>
+File: olho-5.pdf Graphic file (type pdf)
+<use olho-5.pdf>
+
+Missing character: There is no ̧ (U+0327) in font [lmroman12-italic]:mapping=te
+x-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[46]
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+File: microscopio.pdf Graphic file (type pdf)
+<use microscopio.pdf>
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-italic]:mapping=te
+x-text;!
+(../../LIFE.txt) [47]
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-italic]:mapping=te
+x-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[48] (../../LIFE.txt) [49]
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+Underfull \vbox (badness 2837) has occurred while \output is active []
+
+ [50]
+File: micro-composto.jpg Graphic file (type bmp)
+<micro-composto.jpg>
+
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:mapping=t
+ex-text;!
+(../../LIFE.txt) [51]
+Capítulo 5.
+File: prisma1.pdf Graphic file (type pdf)
+<use prisma1.pdf>
+[52
+
+]
+File: prisma2.pdf Graphic file (type pdf)
+<use prisma2.pdf>
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 1774.
+
+ (../../LIFE.txt) [53]
+File: rede1.pdf Graphic file (type pdf)
+<use rede1.pdf>
+File: goniometer.jpg Graphic file (type bmp)
+<goniometer.jpg>
+File: Babinet.pdf Graphic file (type pdf)
+<use Babinet.pdf>
+ [54] (../../LIFE.txt) [55]
+File: gonio-nonio1.pdf Graphic file (type pdf)
+<use gonio-nonio1.pdf>
+File: gonio-nonio2.pdf Graphic file (type pdf)
+<use gonio-nonio2.pdf>
+File: gonio-lente.jpg Graphic file (type bmp)
+<gonio-lente.jpg>
+ [56]
+File: Babinet3.pdf Graphic file (type pdf)
+<use Babinet3.pdf>
+ (../../LIFE.txt)
+[57]
+File: pe-effect.pdf Graphic file (type pdf)
+<use pe-effect.pdf>
+File: planck_exp.pdf Graphic file (type pdf)
+<use planck_exp.pdf>
+ [58]
+File: pe-graph.pdf Graphic file (type pdf)
+<use pe-graph.pdf>
+ (../../LIFE.txt) [59]
+File: planckPasco.pdf Graphic file (type pdf)
+<use planckPasco.pdf>
+File: Planck_setup.jpg Graphic file (type bmp)
+<Planck_setup.jpg>
+ [60]
+Underfull \hbox (badness 10000) in paragraph at lines 1952--1954
+
+ []
+
+
+Underfull \vbox (badness 1127) has occurred while \output is active []
+
+
+(../../LIFE.txt) [61] [62]
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2004
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2004
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2042--2043
+
+ []
+
+
+Underfull \vbox (badness 4441) has occurred while \output is active []
+
+
+(../../LIFE.txt) [63] [64]
+Overfull \hbox (1.42241pt too wide) in paragraph at lines 2063--2064
+[][] 
+ []
+
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {portuguese/script}  =>  {latin}
+>  {portuguese/lcscript}  =>  {latin}
+>  {portuguese/scripttag}  =>  {}
+>  {portuguese/language}  =>  {Portuguese}
+>  {portuguese/langtag}  =>  {PTG}
+>  {portuguese/bcp47}  =>  {pt-PT}
+>  {portuguese/hyphennames}  =>  {portuges,portuguese}
+>  {portuguese/direction}  =>  {LR}
+>  {portuguese/hyphenmins}  =>  {2,3}
+>  {portuguese/frenchspacing}  =>  {false}
+>  {portuguese/indentfirst}  =>  {false}
+>  {portuguese/fontsetup}  =>  {true}
+>  {portuguese/envname}  =>  {portuguese}
+>  {portuguese/babelname}  =>  {portuges}
+>  {portuguese/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {portuguese/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+
+Overfull \vbox (29.87506pt too high) has occurred while \output is active []
+
+
+(../../LIFE.txt) [65] (./AAA_Guia.aux
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+LaTeX Info: Redefining \rmfamily on input line 2.
+LaTeX Info: Redefining \sffamily on input line 2.
+LaTeX Info: Redefining \ttfamily on input line 2.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+Package polyglossia Info: Option: portuguese, variant=portuguese.
+) ) 
+Here is how much of TeX's memory you used:
+ 26813 strings out of 476179
+ 581711 string characters out of 5809545
+ 1155022 words of memory out of 5000000
+ 46948 multiletter control sequences out of 15000+600000
+ 478920 words of font info for 94 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 79i,12n,117p,1122b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on AAA_Guia.pdf (65 pages).

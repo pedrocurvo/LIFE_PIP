@@ -1,0 +1,99 @@
+% Encoding and Language
+\usepackage[utf8x]{inputenc}
+\usepackage{csquotes}
+\usepackage[main=english,portuguese]{babel}
+\usepackage{iflang}
+\usepackage{ragged2e}
+\usepackage{makeidx}
+\usepackage{multicol}
+\usepackage[export]{adjustbox}
+\usepackage{fancyhdr}
+
+% Font Configurations
+\renewcommand{\rmdefault}{phv}
+\renewcommand{\sfdefault}{phv}
+\def\FontLn{% 16 pt normal
+  \usefont{T1}{phv}{m}{n}\fontsize{16pt}{16pt}\selectfont}
+\def\FontLb{% 16 pt bold
+  \usefont{T1}{phv}{b}{n}\fontsize{16pt}{16pt}\selectfont}
+\def\FontMn{% 14 pt normal
+  \usefont{T1}{phv}{m}{n}\fontsize{14pt}{14pt}\selectfont}
+\def\FontMb{% 14 pt bold
+  \usefont{T1}{phv}{b}{n}\fontsize{14pt}{14pt}\selectfont}
+\def\FontSn{% 12 pt normal
+  \usefont{T1}{phv}{m}{n}\fontsize{12pt}{12pt}\selectfont}
+
+% Font Encoding
+\usepackage[T1]{fontenc}
+
+% Page Geometry
+\usepackage{geometry}	
+\geometry{verbose,tmargin=2.cm,bmargin=2.cm,lmargin=2.cm,rmargin=2cm}
+
+% Line Spacing
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.25}
+
+% Graphics and Figures
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{subfigmat}
+\usepackage{float}
+
+% Mathematics and Theorems
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{dcolumn}
+\usepackage{indentfirst}
+
+% Comments and Verbatim
+\usepackage{verbatim}
+
+% Hyperlinks
+\usepackage[pdftex]{hyperref}
+\hypersetup{
+    colorlinks,
+    linkcolor=blue,
+    anchorcolor=black,
+    citecolor=cyan,
+    filecolor=black,
+    menucolor=black,
+    urlcolor=teal,
+    bookmarksopen=true,
+    bookmarksnumbered=true
+}
+
+% Captions and References
+\usepackage[figure,table]{hypcap}
+\usepackage[format=plain]{caption}
+\DeclareCaptionFont{georgia}{\small\fontseries{n}\fontfamily{georgia}\selectfont}
+\captionsetup{labelfont=georgia,font=georgia}
+
+% Bibliography
+\usepackage[backend=biber,style=apa]{biblatex}
+
+% Acronyms
+\usepackage[printonlyused]{acronym}
+
+% Lipsum (for placeholder text)
+\usepackage{lipsum}
+
+% Cleveref (for clever references)
+\usepackage[\IfLanguageName{english}{english}{portuguese}]{cleveref}
+
+% Colors
+\usepackage{xcolor}
+\usepackage{color}
+
+% Custom Commands
+\newcommand{\gray}[1]{\textcolor{gray}{#1}}
+
+% Equation Numbering
+\renewcommand{\theequation}{{\fontseries{n}\fontfamily{georgia}\selectfont\arabic{equation}}}
+
+% Section and Subsection Fonts
+\sectionfont{\Large\bfseries\fontfamily{lmss}\selectfont}
+\subsectionfont{\large\bfseries\fontfamily{lmss}\selectfont}
+
+\makeindex
